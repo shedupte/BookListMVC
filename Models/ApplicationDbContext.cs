@@ -13,6 +13,6 @@ namespace BookListMVC.Models
 
         }
 
-        public DbSet<Book> MyProperty { get; set; }
+        public DbSet<Book> Books { get; set; }
     }
 }
