@@ -412,3 +412,4 @@ C:\Users\PC\source\repos\BookListMVC\BookListMVC\bin\Debug\netcoreapp3.1\zh-Hans
 C:\Users\PC\source\repos\BookListMVC\BookListMVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\PC\source\repos\BookListMVC\BookListMVC\obj\Debug\netcoreapp3.1\BookListMVC.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\PC\source\repos\BookListMVC\BookListMVC\obj\Debug\netcoreapp3.1\BookListMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\source\repos\BookListMVC\BookListMVC\obj\Debug\netcoreapp3.1\Razor\Views\Books\Index.cshtml.g.cs
